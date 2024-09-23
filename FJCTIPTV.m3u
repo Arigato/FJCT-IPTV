@@ -204,3 +204,10 @@ http://27.148.240.138/PLTV/88888888/224/3221226826/1.m3u8
 http://27.148.240.181/
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物频道",央广购物
 http://27.148.240.189/
+
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视-4K",CCTV4K
+http://148.135.93.213:81/live.php?id=CCTV4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视-4K",CCTV16-4K
+http://148.135.93.213:81/live.php?id=CCTV16-4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视-4K",CCTV16-4K
+http://[2409:8087:5e08:24::12]:6610/000000001001/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
